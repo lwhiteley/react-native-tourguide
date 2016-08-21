@@ -1,0 +1,29 @@
+{
+  "name": "react-native-tourguide",
+  "version": "0.0.1",
+  "description": "guided tour of your react-native app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lwhiteley/react-native-tourguide.git"
+  },
+  "keywords": [
+    "tour",
+    "tourguide",
+    "guide",
+    "guided",
+    "joyride"
+  ],
+  "author": "Layton Whiteley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lwhiteley/react-native-tourguide/issues"
+  },
+  "homepage": "https://github.com/lwhiteley/react-native-tourguide#readme",
+  "dependencies": {
+    "react-native-callout": "git+https://github.com/lwhiteley/react-native-callout.git"
+  }
+}
